@@ -53,9 +53,9 @@ or(f2,s,t,u);
 endmodule
 
 
-Developed by:Hemapriya.K 
+Developed by:Sadhana Shree B
 
-RegisterNumber:212223040066
+RegisterNumber:212223230177
 
 
 **Output:**
